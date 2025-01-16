@@ -168,26 +168,6 @@ The Top Charts menu allows users to explore detailed insights into transactions,
 
 ---
 
-## **Contributing**
-Contributions are welcome! To contribute:
-1. Fork this repository.
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature-name"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
-
----
-
 
 ## **About**
 ### **PhonePe Pulse:**
