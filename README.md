@@ -119,7 +119,7 @@ The Top Charts menu allows users to explore detailed insights into transactions,
 
 ## **Links**
 - https://www.linkedin.com/in/vasuki27/
-- [GitHub Repository](Your GitHub Link)
+- https://github.com/Vasuki2799
 
 ---
 
@@ -163,7 +163,8 @@ The Top Charts menu allows users to explore detailed insights into transactions,
 ---
 
 ## **Screenshots**
-Add screenshots or GIFs here to showcase your dashboard and key features.
+<img width="1440" alt="phonepe screenshot" src="https://github.com/user-attachments/assets/9a976bb3-6c83-445d-a118-0fbbd824388b" />
+
 
 ---
 
@@ -184,10 +185,6 @@ Contributions are welcome! To contribute:
    ```
 5. Open a pull request.
 
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
